@@ -13,4 +13,4 @@ experiments demonstrate that the BirdAudioDenoisingModel
 achieves state-of-the-art performance in audio
 denoising. Furthermore, our method proves to be versatile,
 extending its applicability to speech denoising, audio
-separation, audio enhancement, and noise estimation
+separation, audio enhancement, and noise estimation.
